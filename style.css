@@ -1,0 +1,40 @@
+header{
+    background-color: blue;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+    
+
+}
+nav{
+    background-color: blueviolet;
+    color: brown;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+ul li{
+    margin-right: 5%;
+    display: inline-block;
+}
+h2{
+    background-color: blue;
+    color: whitesmoke;
+}
+h3{
+    background-color: blue;
+    color: whitesmoke;
+}
+h3{
+    background-color: blue;
+    font-style: italic;
+    color: whitesmoke;
+}
+h4{
+    background-color: blue;
+    font-style: italic;
+    color: whitesmoke;
+}
